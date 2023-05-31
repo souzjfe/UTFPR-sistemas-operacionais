@@ -1,3 +1,3 @@
   
-g++ -fopenmp sync.cpp -o out    
+g++ -fopenmp barber.cpp -o out    
 ./out
